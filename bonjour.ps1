@@ -1,1 +1,3 @@
-$Path = "bonjour"
+$Path = Read-Host "Saisissez"
+
+Get-ChildItem
