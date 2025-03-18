@@ -1,3 +1,3 @@
 $Path = Read-Host "Saisissez"
 
-Get-ChildItem
+modif main
